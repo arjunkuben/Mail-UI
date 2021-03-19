@@ -1,0 +1,116 @@
+.mailHeader {
+    background: #0078d4;
+    color: white;
+    padding: 9px 15px;
+    height: 42px;
+}
+
+.mainMail {
+    background: white;
+}
+
+.pad_0 {
+    padding: 0 !important;
+}
+
+.dropdown-toggle {
+    float: right;
+    background: white !important;
+    border: none !important;
+}
+
+.dropdown-toggle:focus, .dropdown-toggle:hover, .dropdown-toggle:active {
+    border: none !important;
+    box-shadow: none !important;
+}
+
+.dropdown-menu {
+    min-width: 3rem !important;
+}
+
+.dropdown-item {
+    cursor: pointer;
+    padding: 5px 0px !important;
+}
+
+.commonMailStyle {
+    height: calc(100vh - 42px);
+    padding: 9px 15px;
+}
+
+.commonMailStyle ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.commonMailStyle ul > li {
+    padding: 5px;
+    cursor: pointer;
+}
+
+.headerMail {
+    padding: 9px 15px; 
+    margin: 0;
+}
+
+.blockPara {
+    font-size: smaller;
+}
+
+.countBadge {
+    float: right;
+    margin-top: 3px;
+}
+
+.padBot9 {
+    padding-bottom: 9px;
+}
+
+.card-header, .card-body {
+    background-color: white !important;
+}
+
+h4 {
+    margin: 0 !important;
+    font-weight: 400 !important;
+}
+
+.mainMail div {
+    padding: 9px 15px !important;
+}
+
+.borderDec {
+    border-bottom: 1px solid lightgray;
+}
+
+p {
+    margin: 0 !important;
+}
+
+.mainMailDataBlock {
+    cursor: pointer;
+}
+
+.mainMailDataBlock:hover {
+    background-color: #dcebfa;
+}
+
+.bgHov {
+    background-color: #dcebfa;
+}
+
+.headerMailData {
+    font-size: larger;
+}
+
+.bgWhite {
+    background-color: white;
+}
+
+.borderLeftDes {
+    border-left: 3px solid #0078d4;
+}
+
+.colorPara {
+    color: #0078d4;
+}
